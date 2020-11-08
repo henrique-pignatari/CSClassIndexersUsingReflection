@@ -1,0 +1,7 @@
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\bin\Debug\UsingClassIndexer.exe.config
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\bin\Debug\UsingClassIndexer.exe
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\bin\Debug\UsingClassIndexer.pdb
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\obj\Debug\UsingClassIndexer.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\obj\Debug\UsingClassIndexer.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\obj\Debug\UsingClassIndexer.exe
+C:\Users\henri\source\repos\UsingClassIndexer\UsingClassIndexer\obj\Debug\UsingClassIndexer.pdb
